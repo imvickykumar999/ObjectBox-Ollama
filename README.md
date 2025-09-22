@@ -1,6 +1,10 @@
-# Example: Using ObjectBox with Ollama 
+# Using ObjectBox with Ollama 
 
 based on https://ollama.com/blog/embedding-models
+
+    I hit 😭 100% RAM while running ollama.
+
+<img width="1535" height="1023" alt="image" src="https://github.com/user-attachments/assets/c62a27a0-2ebd-421a-975e-9349544422af" />
 
 ## Setup
 
